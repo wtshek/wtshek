@@ -33,18 +33,22 @@ Just trying to mimic the layout of google search engine and practise Nodejs
 https://github.com/wtshek/NYT_Search_Engine
 https://github.com/wtshek/NTY_Search_Server
 
+<br>
+
 2. Others mini web app 
 
 these are the apps I made when I am doing online tutorial
 <br>
 https://github.com/wtshek/mini-project-webDev
 
+<br>
+
 3. Web scraper
 
-A scraper I used for collecting stocks that reach 52 weeks high
-Info that I scrap: Ticker, and its sector because want to find out which sectors are popular right now
-Stack: Python 
-Function: Web scrapping, writing to EXCEL
+  A scraper I used for collecting stocks that reach 52 weeks high
+  Info that I scrap: Ticker, and its sector because want to find out which sectors are popular right now
+  Stack: Python 
+  Function: Web scrapping, writing to EXCEL
 <br>
 https://github.com/wtshek/52_week_high_scraper/blob/main/52_weeks_high_scraper.py
 
