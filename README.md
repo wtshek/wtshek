@@ -45,10 +45,10 @@ https://github.com/wtshek/mini-project-webDev
 
 3. Web scraper
 
-  A scraper I used for collecting stocks that reach 52 weeks high
-  Info that I scrap: Ticker, and its sector because want to find out which sectors are popular right now
-  Stack: Python 
-  Function: Web scrapping, writing to EXCEL
+A scraper I used for collecting stocks that reach 52 weeks high <br>
+Info that I scrap: Ticker, and its sector because want to find out which sectors are popular right now <br>
+Stack: Python 
+Function: Web scrapping, writing to EXCEL
 <br>
 https://github.com/wtshek/52_week_high_scraper/blob/main/52_weeks_high_scraper.py
 
