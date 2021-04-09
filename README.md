@@ -7,17 +7,16 @@
 I am responsible for Frontend, API development as well as design.
 - Frontend: NUXT (Vue)
 - Backend: PHP 
-<br>
 https://github.com/wtshek/claim_app_backend
 https://github.com/wtshek/claims_app_frontend
+
+<br>
 
 2. A admin portal for managing website, including posting and adding content
 
 I am responsible for frontend. 
 - Frotend: React, Redux, SCSS, HTML 
-<br>
 https://github.com/wtshek/fwdCMS_comp
-
 
 
  <br> 
@@ -31,7 +30,6 @@ https://github.com/wtshek/fwdCMS_comp
 Just trying to mimic the layout of google search engine and practise Nodejs
 - Frontend: React, Styled Component, HTML
 - Backend: Nodejs, Express
-<br>
 https://github.com/wtshek/NYT_Search_Engine
 https://github.com/wtshek/NTY_Search_Server
 
