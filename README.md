@@ -17,7 +17,7 @@ I am responsible for frontend.
 https://github.com/wtshek/fwdCMS_comp
 
 
-<h3> Some of my personal project for practices </h3> : 
+<h3> Some of my personal project for practices: </h3>
 
 1. A clone to Search Enginge
 
