@@ -7,9 +7,10 @@
 I am responsible for Frontend, API development as well as design.
 - Frontend: NUXT (Vue)
 - Backend: PHP 
-<br>
+<div>
 https://github.com/wtshek/claim_app_backend
 https://github.com/wtshek/claims_app_frontend
+</div>
 
 <br>
 
