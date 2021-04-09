@@ -46,4 +46,7 @@ https://github.com/wtshek/52_week_high_scraper/blob/main/52_weeks_high_scraper.p
 
  🌱 I’m currently learning <em> Python</em> and <em> Data Scructure </em>.
  
+ <br> 
+ <br>
+ 
  <em> Reach me via email! wtshek119@gmail.com </em>
