@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3> Here is some link to my past projects </h3>: 
+<h3> Here is some link to my past projects: </h3>
 
 1. A PWA (Progressive Web App) transport fare claiming portal
 
