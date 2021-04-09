@@ -40,7 +40,8 @@ Stack: Python
 Function: Web scrapping, writing to EXCEL
 https://github.com/wtshek/52_week_high_scraper/blob/main/52_weeks_high_scraper.py
 
-
+<br>
+<br>
 
 
  🌱 I’m currently learning <em> Python</em> and <em> Data Scructure </em>.
