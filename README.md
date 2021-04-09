@@ -18,7 +18,9 @@ https://github.com/wtshek/claims_app_frontend
 
 I am responsible for frontend. 
 - Frotend: React, Redux, SCSS, HTML 
+<div>
 https://github.com/wtshek/fwdCMS_comp
+</div>
 
 
  <br> 
@@ -32,8 +34,10 @@ https://github.com/wtshek/fwdCMS_comp
 Just trying to mimic the layout of google search engine and practise Nodejs
 - Frontend: React, Styled Component, HTML
 - Backend: Nodejs, Express
+<div>
 https://github.com/wtshek/NYT_Search_Engine
 https://github.com/wtshek/NTY_Search_Server
+</div>
 
 <br>
 
