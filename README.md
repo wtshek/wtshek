@@ -30,5 +30,5 @@ code: https://github.com/wtshek/the-personal-stories-app
 <br>
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/wing-tung-shek/)
+[LinkedIn](https://www.linkedin.com/in/wing-tung-shek/) <br>
 Email: wtshek119@gmail.com
